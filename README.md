@@ -10,7 +10,7 @@ Je crois en une data **accessible**, **fiable** et **actionnable**, au service d
 
 ## Compétences principales
 - Business Intelligence & Data Visualization
-  - Conception de dashboards dynamiques avec Power BI
+  - Conception de rapport dynamiques avec Power BI
   - Sécurité des données via Row-Level Security (RLS)
   - Rapports paginés et reporting automatisé
 - Intelligence Artificielle & Automatisation
